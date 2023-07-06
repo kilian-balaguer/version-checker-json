@@ -1,0 +1,4 @@
+{
+  "version": "0.1.4",
+  "release_notes": "Built-in App Scanner: PermissionMaster now scans both installed and built-in apps, providing a comprehensive view of your app permissions."
+}
